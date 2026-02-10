@@ -1,0 +1,60 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "genero": "Fantasia",
+      "emocao": "Empolgação",
+      "estilo": "Aventura",
+      "descricao": "Um jovem descobre que é um bruxo e entra em um mundo mágico cheio de mistérios, amizades e desafios."
+    },
+    {
+      "id": 2,
+      "titulo": "Jogos Vorazes",
+      "genero": "Ação",
+      "emocao": "Tensão",
+      "estilo": "Intenso",
+      "descricao": "Uma jovem luta pela sobrevivência em um sistema brutal que transforma pessoas em entretenimento."
+    },
+    {
+      "id": 3,
+      "titulo": "É Assim Que Acaba",
+      "genero": "Romance",
+      "emocao": "Tristeza",
+      "estilo": "Emocional",
+      "descricao": "Uma história profunda sobre amor, escolhas difíceis e superação emocional."
+    },
+    {
+      "id": 4,
+      "titulo": "A Culpa é das Estrelas",
+      "genero": "Romance",
+      "emocao": "Tristeza",
+      "estilo": "Reflexivo",
+      "descricao": "Dois jovens lidam com o amor e a vida em meio a uma dura realidade."
+    },
+    {
+      "id": 5,
+      "titulo": "O Código Da Vinci",
+      "genero": "Mistério",
+      "emocao": "Curiosidade",
+      "estilo": "Suspense",
+      "descricao": "Um mistério global envolvendo religião, segredos históricos e códigos ocultos."
+    },
+    {
+      "id": 6,
+      "titulo": "O Poder do Hábito",
+      "genero": "Desenvolvimento pessoal",
+      "emocao": "Motivação",
+      "estilo": "Inspirador",
+      "descricao": "Como hábitos funcionam e como podem transformar sua vida pessoal e profissional."
+    },
+    {
+      "id": 7,
+      "titulo": "O Senhor dos Anéis",
+      "genero": "Fantasia",
+      "emocao": "Esperança",
+      "estilo": "Épico",
+      "descricao": "Uma jornada épica para destruir um artefato poderoso e salvar o mundo."
+    }
+  ]
+}
