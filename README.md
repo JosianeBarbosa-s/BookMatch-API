@@ -94,7 +94,7 @@ http://localhost:3000
 ### Endpoint /api/quiz
 ![quiz](screenshots/quiz.png)
 
-### ❓ Endpoint /api/books
+### Endpoint /api/books
 ![books](screenshots/books.png)
 
 ---
